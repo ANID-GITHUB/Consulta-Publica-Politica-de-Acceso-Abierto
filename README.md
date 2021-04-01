@@ -3,7 +3,7 @@ Durante junio y julio del 2020 la Agencia Nacional de Investigación y Desarroll
 
 La base de datos denominada “BBDD_CP_PAA” contiene la información de las respuestas recibidas en esta consulta pública, con un total de 736 registros completos, de los cuales 732 fueron usados para la caracterización de respuestas.  Contiene la información de respuestas de personas naturales y personas jurídicas, donde algunas respuestas de identificación solo corresponden a personas naturales. Además de los campos de respuestas, se crean los campos de rango etario, área científica y macrozona, que corresponden a agrupaciones de edad, áreas del conocimiento según categorías OCDE, y macrozonas según la definición del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación.  
 
-Para más detalles sobre los campos incluidos en la base de datos ver BBDD_Conculta_PAA.pdf 
+Para más detalles sobre los campos incluidos en la base de datos ver BBDD_Consulta_PAA.pdf
 
 Para acceder a la Política de Acceso Abierto a Información Científica y Datos de Investigación que fue sometida a consulta  visitar https://s3.amazonaws.com/documentos.anid.cl/estudios/Politica_acceso_a_informacion_cientifica_version_final_26-05-2020.pdf
 
